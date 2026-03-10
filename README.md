@@ -129,6 +129,7 @@ commonsku-directory-scraper/
 - Rate limiting is handled implicitly by the thread pool (10 concurrent workers)
 - JWT tokens from CommonSKU expire after ~7 days
 - The deduplication key is `(company_id, profile_url)` — duplicate records are resolved by keeping the one with more non-empty fields
+- **Data Nuance (1,012 vs 1,010 Companies):** The dataset correctly contains 1,012 unique `company_id`s. However, two companies ("Genumark" and "Halo") each have two separate, distinct entries in the CommonSKU directory. A unique count on `company_name` yields 1,010, while `company_id` yields 1,012.
 
 ## License
 
