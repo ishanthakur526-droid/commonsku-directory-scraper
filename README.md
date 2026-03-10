@@ -50,10 +50,10 @@ CommonSKU API
 
 | Metric | Count |
 |--------|-------|
-| Companies scraped | **1,010** |
+| Companies scraped | **1,012** |
 | Contacts extracted | **7,298** |
-| Records with email | ~90%+ |
-| Records with phone | ~50%+ |
+| Records with email | ~98% |
+| Records with phone | ~46% |
 
 ## Setup & Usage
 
@@ -102,13 +102,13 @@ This prints a summary of field coverage, duplicate detection, and sample rows.
 ==================================================
 DONE
 ==================================================
-Companies in API:   1010
-Companies scraped:  995
+Companies in API:   1012
+Companies scraped:  1012
 People (deduped):   7298
 Errors:             0
-With email:         6842
-With phone:         4215
-With address:       3890
+With email:         7186
+With phone:         3397
+With address:       2324
 ```
 
 ## File Structure
