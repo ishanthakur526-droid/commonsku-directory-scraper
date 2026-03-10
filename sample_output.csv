@@ -1,0 +1,11 @@
+company_name,first_name,last_name,professional_title,email,phone,company_address,profile_url,company_id
+Acme Promotions,Jane,Smith,VP Business Development,jane.smith@example.com,555-123-4567,"100 Main St, Suite 200, New York, NY, US",https://social.commonsku.com/user.php?id=example-uuid-1,example-company-id-1
+Acme Promotions,Robert,Chen,Account Manager,robert.chen@example.com,555-123-4567,"100 Main St, Suite 200, New York, NY, US",https://social.commonsku.com/user.php?id=example-uuid-2,example-company-id-1
+Acme Promotions,Maria,Johnson,Production Coordinator,maria.johnson@example.com,555-123-4567,"100 Main St, Suite 200, New York, NY, US",https://social.commonsku.com/user.php?id=example-uuid-3,example-company-id-1
+Bright Brand Co,Alex,Williams,President,alex.williams@example.com,555-987-6543,"450 Oak Ave, Toronto, ON, Canada",https://social.commonsku.com/user.php?id=example-uuid-4,example-company-id-2
+Bright Brand Co,Samira,Patel,Sales Manager,samira.patel@example.com,555-987-6543,"450 Oak Ave, Toronto, ON, Canada",https://social.commonsku.com/user.php?id=example-uuid-5,example-company-id-2
+Crest Marketing Group,David,Lee,Owner,david.lee@example.com,,,https://social.commonsku.com/user.php?id=example-uuid-6,example-company-id-3
+Crest Marketing Group,Emily,Torres,Senior Account Executive,emily.torres@example.com,,,https://social.commonsku.com/user.php?id=example-uuid-7,example-company-id-3
+Delta Promo Solutions,,,,,555-222-3333,"800 Pine Rd, Chicago, IL, US",https://social.commonsku.com/user.php?id=example-uuid-8,example-company-id-4
+Delta Promo Solutions,Kevin,O'Brien,CEO,kevin.obrien@example.com,555-222-3333,"800 Pine Rd, Chicago, IL, US",https://social.commonsku.com/user.php?id=example-uuid-9,example-company-id-4
+Delta Promo Solutions,Lisa,Kim,Graphic Designer,lisa.kim@example.com,555-222-3333,"800 Pine Rd, Chicago, IL, US",https://social.commonsku.com/user.php?id=example-uuid-10,example-company-id-4
