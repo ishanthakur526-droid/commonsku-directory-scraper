@@ -60,10 +60,9 @@ CommonSKU API
 ### Prerequisites
 
 - Python 3.8+
-- `requests` library
 
 ```bash
-pip install requests
+pip install -r requirements.txt
 ```
 
 ### Running the Scraper
@@ -118,6 +117,7 @@ With address:       3890
 commonsku-directory-scraper/
 ├── scrape.py              # Main scraper script
 ├── verify_data.py         # Data verification & quality checks
+├── requirements.txt       # Python dependencies
 ├── README.md
 ├── .gitignore
 └── sample_output.csv      # (optional) Small sample of output
