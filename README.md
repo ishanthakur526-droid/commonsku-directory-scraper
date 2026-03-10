@@ -102,8 +102,8 @@ This prints a summary of field coverage, duplicate detection, and sample rows.
 ==================================================
 DONE
 ==================================================
-Companies in API:   995
-Companies scraped:  1010
+Companies in API:   1010
+Companies scraped:  995
 People (deduped):   7298
 Errors:             0
 With email:         6842
